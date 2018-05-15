@@ -1,0 +1,55 @@
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Login.resources
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.cache
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\SamSam\source\repos\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.Cache
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\vlit\Downloads\Compressed\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+C:\Users\vlit\Desktop\Thực tập nhóm_TH14\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.Cache
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.cache
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.CoreCompileInputs.cache
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+D:\QuanLyQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\Vlit\Downloads\Compressed\qlqan\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+C:\Users\Vlit\Downloads\Compressed\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\Vlit\Downloads\Compressed\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.Cache
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
