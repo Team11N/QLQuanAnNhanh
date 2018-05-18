@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.tabPageNV = new System.Windows.Forms.TabPage();
+            this.dtmBirthDay = new System.Windows.Forms.DateTimePicker();
             this.btnExit = new System.Windows.Forms.Button();
             this.lsvNhanVien = new System.Windows.Forms.ListView();
             this.columnID = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -48,11 +49,28 @@
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnUpdate = new System.Windows.Forms.Button();
             this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.dataGridView4 = new System.Windows.Forms.DataGridView();
+            this.dtpkIndoanhthu = new System.Windows.Forms.DateTimePicker();
+            this.btnXuatEL = new System.Windows.Forms.Button();
+            this.btnBieuDo = new System.Windows.Forms.Button();
+            this.rBtnNam = new System.Windows.Forms.RadioButton();
+            this.rBtnThang = new System.Windows.Forms.RadioButton();
+            this.rBtnNgay = new System.Windows.Forms.RadioButton();
+            this.btnXoa = new System.Windows.Forms.Button();
+            this.txttennv = new System.Windows.Forms.TextBox();
+            this.txttongtien = new System.Windows.Forms.TextBox();
+            this.txtmaorder = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.lbTongTien = new System.Windows.Forms.Label();
+            this.lbTenNV = new System.Windows.Forms.Label();
+            this.lbMaOrder = new System.Windows.Forms.Label();
+            this.grvDoanhThu = new System.Windows.Forms.DataGridView();
             this.label13 = new System.Windows.Forms.Label();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
-            this.button12 = new System.Windows.Forms.Button();
+            this.dtpkDoanhThu = new System.Windows.Forms.DateTimePicker();
+            this.btnIndoanhthu = new System.Windows.Forms.Button();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.ngay = new System.Windows.Forms.Label();
+            this.MaNV = new System.Windows.Forms.Label();
+            this.txtMaNV = new System.Windows.Forms.TextBox();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.brnDelOrder = new System.Windows.Forms.Button();
             this.btnEditOrder = new System.Windows.Forms.Button();
@@ -93,10 +111,9 @@
             this.txtNameDish = new System.Windows.Forms.TextBox();
             this.txtIDDish = new System.Windows.Forms.TextBox();
             this.tabControl = new System.Windows.Forms.TabControl();
-            this.dtmBirthDay = new System.Windows.Forms.DateTimePicker();
             this.tabPageNV.SuspendLayout();
             this.tabPage4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grvDoanhThu)).BeginInit();
             this.tabPage3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.tabPageMenu.SuspendLayout();
@@ -128,6 +145,14 @@
             this.tabPageNV.Size = new System.Drawing.Size(870, 343);
             this.tabPageNV.TabIndex = 4;
             this.tabPageNV.Text = "Nhân viên";
+            // 
+            // dtmBirthDay
+            // 
+            this.dtmBirthDay.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtmBirthDay.Location = new System.Drawing.Point(85, 148);
+            this.dtmBirthDay.Name = "dtmBirthDay";
+            this.dtmBirthDay.Size = new System.Drawing.Size(114, 20);
+            this.dtmBirthDay.TabIndex = 24;
             // 
             // btnExit
             // 
@@ -302,10 +327,24 @@
             // 
             // tabPage4
             // 
-            this.tabPage4.Controls.Add(this.dataGridView4);
+            this.tabPage4.Controls.Add(this.dtpkIndoanhthu);
+            this.tabPage4.Controls.Add(this.btnXuatEL);
+            this.tabPage4.Controls.Add(this.btnBieuDo);
+            this.tabPage4.Controls.Add(this.rBtnNam);
+            this.tabPage4.Controls.Add(this.rBtnThang);
+            this.tabPage4.Controls.Add(this.rBtnNgay);
+            this.tabPage4.Controls.Add(this.btnXoa);
+            this.tabPage4.Controls.Add(this.txttennv);
+            this.tabPage4.Controls.Add(this.txttongtien);
+            this.tabPage4.Controls.Add(this.txtmaorder);
+            this.tabPage4.Controls.Add(this.label4);
+            this.tabPage4.Controls.Add(this.lbTongTien);
+            this.tabPage4.Controls.Add(this.lbTenNV);
+            this.tabPage4.Controls.Add(this.lbMaOrder);
+            this.tabPage4.Controls.Add(this.grvDoanhThu);
             this.tabPage4.Controls.Add(this.label13);
-            this.tabPage4.Controls.Add(this.dateTimePicker2);
-            this.tabPage4.Controls.Add(this.button12);
+            this.tabPage4.Controls.Add(this.dtpkDoanhThu);
+            this.tabPage4.Controls.Add(this.btnIndoanhthu);
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
@@ -314,42 +353,191 @@
             this.tabPage4.Text = "Doanh thu";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
-            // dataGridView4
+            // dtpkIndoanhthu
             // 
-            this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView4.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dataGridView4.Location = new System.Drawing.Point(3, 56);
-            this.dataGridView4.Name = "dataGridView4";
-            this.dataGridView4.Size = new System.Drawing.Size(864, 284);
-            this.dataGridView4.TabIndex = 6;
+            this.dtpkIndoanhthu.Checked = false;
+            this.dtpkIndoanhthu.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dtpkIndoanhthu.Location = new System.Drawing.Point(88, 215);
+            this.dtpkIndoanhthu.Name = "dtpkIndoanhthu";
+            this.dtpkIndoanhthu.Size = new System.Drawing.Size(100, 20);
+            this.dtpkIndoanhthu.TabIndex = 22;
+            // 
+            // btnXuatEL
+            // 
+            this.btnXuatEL.BackColor = System.Drawing.SystemColors.Menu;
+            this.btnXuatEL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnXuatEL.Location = new System.Drawing.Point(113, 312);
+            this.btnXuatEL.Name = "btnXuatEL";
+            this.btnXuatEL.Size = new System.Drawing.Size(75, 23);
+            this.btnXuatEL.TabIndex = 21;
+            this.btnXuatEL.Text = "Xuất Excel";
+            this.btnXuatEL.UseVisualStyleBackColor = false;
+            this.btnXuatEL.Click += new System.EventHandler(this.btnXuatEL_Click);
+            // 
+            // btnBieuDo
+            // 
+            this.btnBieuDo.BackColor = System.Drawing.SystemColors.Menu;
+            this.btnBieuDo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBieuDo.Location = new System.Drawing.Point(9, 312);
+            this.btnBieuDo.Name = "btnBieuDo";
+            this.btnBieuDo.Size = new System.Drawing.Size(75, 23);
+            this.btnBieuDo.TabIndex = 20;
+            this.btnBieuDo.Text = "Biểu đồ";
+            this.btnBieuDo.UseVisualStyleBackColor = false;
+            this.btnBieuDo.Click += new System.EventHandler(this.btnBieuDo_Click);
+            // 
+            // rBtnNam
+            // 
+            this.rBtnNam.AutoSize = true;
+            this.rBtnNam.Location = new System.Drawing.Point(451, 67);
+            this.rBtnNam.Name = "rBtnNam";
+            this.rBtnNam.Size = new System.Drawing.Size(159, 17);
+            this.rBtnNam.TabIndex = 19;
+            this.rBtnNam.TabStop = true;
+            this.rBtnNam.Text = "Hiển thị doanh thu theo năm";
+            this.rBtnNam.UseVisualStyleBackColor = true;
+            this.rBtnNam.CheckedChanged += new System.EventHandler(this.rBtnNam_CheckedChanged);
+            // 
+            // rBtnThang
+            // 
+            this.rBtnThang.AutoSize = true;
+            this.rBtnThang.Location = new System.Drawing.Point(451, 44);
+            this.rBtnThang.Name = "rBtnThang";
+            this.rBtnThang.Size = new System.Drawing.Size(166, 17);
+            this.rBtnThang.TabIndex = 18;
+            this.rBtnThang.TabStop = true;
+            this.rBtnThang.Text = "Hiển thị doanh thu theo tháng";
+            this.rBtnThang.UseVisualStyleBackColor = true;
+            this.rBtnThang.CheckedChanged += new System.EventHandler(this.rBtnThang_CheckedChanged);
+            // 
+            // rBtnNgay
+            // 
+            this.rBtnNgay.AutoSize = true;
+            this.rBtnNgay.Location = new System.Drawing.Point(451, 21);
+            this.rBtnNgay.Name = "rBtnNgay";
+            this.rBtnNgay.Size = new System.Drawing.Size(162, 17);
+            this.rBtnNgay.TabIndex = 17;
+            this.rBtnNgay.TabStop = true;
+            this.rBtnNgay.Text = "Hiển thị doanh thu theo ngày";
+            this.rBtnNgay.UseVisualStyleBackColor = true;
+            this.rBtnNgay.CheckedChanged += new System.EventHandler(this.rBtnNgay_CheckedChanged);
+            // 
+            // btnXoa
+            // 
+            this.btnXoa.BackColor = System.Drawing.SystemColors.Menu;
+            this.btnXoa.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnXoa.Location = new System.Drawing.Point(67, 261);
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Size = new System.Drawing.Size(75, 23);
+            this.btnXoa.TabIndex = 16;
+            this.btnXoa.Text = "Xóa";
+            this.btnXoa.UseVisualStyleBackColor = false;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
+            // 
+            // txttennv
+            // 
+            this.txttennv.BackColor = System.Drawing.SystemColors.Menu;
+            this.txttennv.Location = new System.Drawing.Point(88, 138);
+            this.txttennv.Name = "txttennv";
+            this.txttennv.Size = new System.Drawing.Size(100, 20);
+            this.txttennv.TabIndex = 15;
+            // 
+            // txttongtien
+            // 
+            this.txttongtien.BackColor = System.Drawing.SystemColors.Menu;
+            this.txttongtien.Location = new System.Drawing.Point(88, 178);
+            this.txttongtien.Name = "txttongtien";
+            this.txttongtien.Size = new System.Drawing.Size(100, 20);
+            this.txttongtien.TabIndex = 14;
+            // 
+            // txtmaorder
+            // 
+            this.txtmaorder.BackColor = System.Drawing.SystemColors.Menu;
+            this.txtmaorder.Location = new System.Drawing.Point(88, 102);
+            this.txtmaorder.Name = "txtmaorder";
+            this.txtmaorder.Size = new System.Drawing.Size(100, 20);
+            this.txtmaorder.TabIndex = 11;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(8, 222);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(32, 13);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Ngày";
+            // 
+            // lbTongTien
+            // 
+            this.lbTongTien.AutoSize = true;
+            this.lbTongTien.Location = new System.Drawing.Point(8, 181);
+            this.lbTongTien.Name = "lbTongTien";
+            this.lbTongTien.Size = new System.Drawing.Size(52, 13);
+            this.lbTongTien.TabIndex = 9;
+            this.lbTongTien.Text = "Tổng tiền";
+            // 
+            // lbTenNV
+            // 
+            this.lbTenNV.AutoSize = true;
+            this.lbTenNV.Location = new System.Drawing.Point(8, 141);
+            this.lbTenNV.Name = "lbTenNV";
+            this.lbTenNV.Size = new System.Drawing.Size(76, 13);
+            this.lbTenNV.TabIndex = 8;
+            this.lbTenNV.Text = "Tên nhân viên";
+            // 
+            // lbMaOrder
+            // 
+            this.lbMaOrder.AutoSize = true;
+            this.lbMaOrder.Location = new System.Drawing.Point(8, 102);
+            this.lbMaOrder.Name = "lbMaOrder";
+            this.lbMaOrder.Size = new System.Drawing.Size(71, 13);
+            this.lbMaOrder.TabIndex = 7;
+            this.lbMaOrder.Text = "Mã đơn hàng";
+            // 
+            // grvDoanhThu
+            // 
+            this.grvDoanhThu.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.grvDoanhThu.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.grvDoanhThu.Location = new System.Drawing.Point(205, 102);
+            this.grvDoanhThu.Name = "grvDoanhThu";
+            this.grvDoanhThu.Size = new System.Drawing.Size(665, 241);
+            this.grvDoanhThu.TabIndex = 6;
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(332, 26);
+            this.label13.Location = new System.Drawing.Point(632, 67);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(32, 13);
             this.label13.TabIndex = 5;
             this.label13.Text = "Ngày";
             // 
-            // dateTimePicker2
+            // dtpkDoanhThu
             // 
-            this.dateTimePicker2.Location = new System.Drawing.Point(395, 20);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
-            this.dateTimePicker2.TabIndex = 4;
+            this.dtpkDoanhThu.Location = new System.Drawing.Point(670, 63);
+            this.dtpkDoanhThu.Name = "dtpkDoanhThu";
+            this.dtpkDoanhThu.Size = new System.Drawing.Size(200, 20);
+            this.dtpkDoanhThu.TabIndex = 4;
+            this.dtpkDoanhThu.Value = new System.DateTime(2018, 5, 16, 0, 0, 0, 0);
+            this.dtpkDoanhThu.ValueChanged += new System.EventHandler(this.dtpkDoanhThu_ValueChanged);
             // 
-            // button12
+            // btnIndoanhthu
             // 
-            this.button12.Location = new System.Drawing.Point(220, 17);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(75, 30);
-            this.button12.TabIndex = 0;
-            this.button12.Text = "In báo cáo";
-            this.button12.UseVisualStyleBackColor = true;
+            this.btnIndoanhthu.BackColor = System.Drawing.SystemColors.Menu;
+            this.btnIndoanhthu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnIndoanhthu.Location = new System.Drawing.Point(313, 37);
+            this.btnIndoanhthu.Name = "btnIndoanhthu";
+            this.btnIndoanhthu.Size = new System.Drawing.Size(90, 30);
+            this.btnIndoanhthu.TabIndex = 0;
+            this.btnIndoanhthu.Text = "In doanh thu";
+            this.btnIndoanhthu.UseVisualStyleBackColor = false;
+            this.btnIndoanhthu.Click += new System.EventHandler(this.btnInbaocao_Click);
             // 
             // tabPage3
             // 
+            this.tabPage3.Controls.Add(this.ngay);
+            this.tabPage3.Controls.Add(this.MaNV);
+            this.tabPage3.Controls.Add(this.txtMaNV);
             this.tabPage3.Controls.Add(this.dateTimePicker1);
             this.tabPage3.Controls.Add(this.brnDelOrder);
             this.tabPage3.Controls.Add(this.btnEditOrder);
@@ -376,9 +564,34 @@
             this.tabPage3.Text = "Bán hàng";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
+            // ngay
+            // 
+            this.ngay.AutoSize = true;
+            this.ngay.Location = new System.Drawing.Point(561, 38);
+            this.ngay.Name = "ngay";
+            this.ngay.Size = new System.Drawing.Size(32, 13);
+            this.ngay.TabIndex = 54;
+            this.ngay.Text = "Ngày";
+            // 
+            // MaNV
+            // 
+            this.MaNV.AutoSize = true;
+            this.MaNV.Location = new System.Drawing.Point(265, 37);
+            this.MaNV.Name = "MaNV";
+            this.MaNV.Size = new System.Drawing.Size(40, 13);
+            this.MaNV.TabIndex = 53;
+            this.MaNV.Text = "Mã NV";
+            // 
+            // txtMaNV
+            // 
+            this.txtMaNV.Location = new System.Drawing.Point(311, 34);
+            this.txtMaNV.Name = "txtMaNV";
+            this.txtMaNV.Size = new System.Drawing.Size(71, 20);
+            this.txtMaNV.TabIndex = 52;
+            // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(584, 35);
+            this.dateTimePicker1.Location = new System.Drawing.Point(602, 35);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 51;
@@ -460,7 +673,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(334, 42);
+            this.label7.Location = new System.Drawing.Point(402, 37);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(23, 13);
             this.label7.TabIndex = 47;
@@ -469,7 +682,7 @@
             // txtGia
             // 
             this.txtGia.Enabled = false;
-            this.txtGia.Location = new System.Drawing.Point(374, 35);
+            this.txtGia.Location = new System.Drawing.Point(431, 35);
             this.txtGia.Name = "txtGia";
             this.txtGia.Size = new System.Drawing.Size(100, 20);
             this.txtGia.TabIndex = 46;
@@ -756,14 +969,6 @@
             this.tabControl.Size = new System.Drawing.Size(878, 369);
             this.tabControl.TabIndex = 0;
             // 
-            // dtmBirthDay
-            // 
-            this.dtmBirthDay.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtmBirthDay.Location = new System.Drawing.Point(85, 148);
-            this.dtmBirthDay.Name = "dtmBirthDay";
-            this.dtmBirthDay.Size = new System.Drawing.Size(114, 20);
-            this.dtmBirthDay.TabIndex = 24;
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -779,7 +984,7 @@
             this.tabPageNV.PerformLayout();
             this.tabPage4.ResumeLayout(false);
             this.tabPage4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grvDoanhThu)).EndInit();
             this.tabPage3.ResumeLayout(false);
             this.tabPage3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
@@ -812,10 +1017,10 @@
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.TabPage tabPage4;
-        private System.Windows.Forms.DataGridView dataGridView4;
+        private System.Windows.Forms.DataGridView grvDoanhThu;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
-        private System.Windows.Forms.Button button12;
+        private System.Windows.Forms.DateTimePicker dtpkDoanhThu;
+        private System.Windows.Forms.Button btnIndoanhthu;
         private System.Windows.Forms.TabPage tabPage3;
         private System.Windows.Forms.TabPage tabPageMenu;
         private System.Windows.Forms.Button btnExitMenu;
@@ -858,5 +1063,22 @@
         private System.Windows.Forms.TextBox txtSearchDish;
         private System.Windows.Forms.Button btnSearchDish;
         private System.Windows.Forms.DateTimePicker dtmBirthDay;
+        private System.Windows.Forms.DateTimePicker dtpkIndoanhthu;
+        private System.Windows.Forms.Button btnXuatEL;
+        private System.Windows.Forms.Button btnBieuDo;
+        private System.Windows.Forms.RadioButton rBtnNam;
+        private System.Windows.Forms.RadioButton rBtnThang;
+        private System.Windows.Forms.RadioButton rBtnNgay;
+        private System.Windows.Forms.Button btnXoa;
+        private System.Windows.Forms.TextBox txttennv;
+        private System.Windows.Forms.TextBox txttongtien;
+        private System.Windows.Forms.TextBox txtmaorder;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label lbTongTien;
+        private System.Windows.Forms.Label lbTenNV;
+        private System.Windows.Forms.Label lbMaOrder;
+        private System.Windows.Forms.Label ngay;
+        private System.Windows.Forms.Label MaNV;
+        private System.Windows.Forms.TextBox txtMaNV;
     }
 }

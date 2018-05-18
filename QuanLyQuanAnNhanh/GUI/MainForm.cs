@@ -8,6 +8,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Excel = Microsoft.Office.Interop.Excel;
+using xlapp = Microsoft.Office.Interop.Excel.Application;
+using xlworksheet = Microsoft.Office.Interop.Excel.Worksheet;
+using xlworkbook = Microsoft.Office.Interop.Excel.Workbook;
+using QuanLyQuanAnNhanh.Properties;
+using QuanLyQuanAnNhanh.DAL;
 
 namespace QuanLyQuanAnNhanh
 {
@@ -16,6 +22,7 @@ namespace QuanLyQuanAnNhanh
 
         //string check;
         bool check;
+        BanHang banHang = new BanHang();
         public MainForm()
         {
             InitializeComponent();
@@ -43,7 +50,14 @@ namespace QuanLyQuanAnNhanh
 
         public void AddGia()
         {
+           
             txtGia.DataBindings.Add(new Binding("Text", cbbNameEat.DataSource, "Unit_price"));
+        }
+
+        public void AddMaNV()
+        {
+            
+            txtMaNV.DataBindings.Add(new Binding("Text", cbbNameEmployees.DataSource, "ID_employees"));
         }
 
         public void LoadComboBox2()
@@ -51,7 +65,7 @@ namespace QuanLyQuanAnNhanh
             try
             {
                 DAL.SQLConnect provider = new DAL.SQLConnect();
-                string query = ("select Name_employees from tbEmployees");
+                string query = ("select Name_employees,ID_employees from tbEmployees");
                 cbbNameEmployees.DataSource = provider.ExecuteQuery(query);
                 cbbNameEmployees.DisplayMember = "Name_employees";
                 cbbNameEmployees.ValueMember = "Name_employees";
@@ -64,13 +78,28 @@ namespace QuanLyQuanAnNhanh
 
         private void btnInsertOrder_Click(object sender, EventArgs e)
         {
-            System.Windows.Forms.ListViewItem item = new System.Windows.Forms.ListViewItem(new string[] {
+            if (txtIDOrder.Text != "")
+            {
+                System.Windows.Forms.ListViewItem item = new System.Windows.Forms.ListViewItem(new string[] {
                 txtIDOrder.Text ,cbbNameEmployees.Text,cbbNameEat.Text,txtGia.Text,numericUpDown1.Text,dateTimePicker1.Text });
 
-            this.listViewBanHang.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
+                this.listViewBanHang.Items.AddRange(new System.Windows.Forms.ListViewItem[] {
                 item
                 });
+            }
+            else
+            {
+                MessageBox.Show("Vui lòng nhập mã order!!!");
+            }
+            int thanhtien = 0;
+            foreach(ListViewItem item in listViewBanHang.Items)
+            {
+                thanhtien = Convert.ToInt32(item.SubItems[3].Text.ToString()) * Convert.ToInt32(item.SubItems[4].Text.ToString());
+            }
+            textBox10.Text = Convert.ToString(thanhtien);
+
         }
+
 
         private void listViewBanHang_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e)
         {
@@ -97,6 +126,7 @@ namespace QuanLyQuanAnNhanh
                 if (it.Text == maOrder)
                 {
                     it.Remove();
+                    textBox10.Text = "0";
                     MessageBox.Show("Xóa thành công");
                     return;
                 }
@@ -117,9 +147,9 @@ namespace QuanLyQuanAnNhanh
                     listViewBanHang.Items[i].SubItems[2].Text = cbbNameEat.Text;
                     listViewBanHang.Items[i].SubItems[3].Text = txtGia.Text;
                     listViewBanHang.Items[i].SubItems[4].Text = numericUpDown1.Text;
-                    listViewBanHang.Items[i].SubItems[4].Text = dateTimePicker1.Text;
+                    listViewBanHang.Items[i].SubItems[5].Text = dateTimePicker1.Text;
 
-
+                    textBox10.Text = Convert.ToString(Convert.ToInt32(listViewBanHang.Items[i].SubItems[3].Text.ToString()) * Convert.ToInt32(listViewBanHang.Items[i].SubItems[4].Text.ToString()));
                     return;
                 }
             }
@@ -133,24 +163,68 @@ namespace QuanLyQuanAnNhanh
 
         private void btnThanhToan_Click(object sender, EventArgs e)
         {
+            
             int total = 0;
+            int thanhtien = 0;
             try
             {
                 foreach (ListViewItem item in listViewBanHang.Items)
                 {
-                    total += int.Parse(item.SubItems[3].Text);
+                    if (item.Text == txtIDOrder.Text)
+                    {
+                        thanhtien = Convert.ToInt32(Convert.ToInt32(item.SubItems[3].Text.ToString()) * Convert.ToInt32(item.SubItems[4].Text.ToString()));
+                        total += thanhtien;
+                    }
+                    textBox10.Text = total.ToString();
                 }
-
-                textBox10.Text = total.ToString();
+                string idorder = txtIDOrder.Text;
+                string tendonhang = cbbNameEat.Text;
+                string manv = txtMaNV.Text;
+                int soluong = Convert.ToInt32(numericUpDown1.Text.ToString());
+                int tongtien = Convert.ToInt32(textBox10.Text);
+                DateTime thoigianthanhtoan = dateTimePicker1.Value;
+                banHang.ThanhToan(idorder, tendonhang, manv, soluong, tongtien, thoigianthanhtoan);
+                doanhThu.updateBieuDo();
+                MessageBox.Show("Đã thanh toán");
             }
-            catch (Exception ex)
+            catch (SqlException)
             {
-                MessageBox.Show(ex.ToString());
+                MessageBox.Show("Mã order đã tồn tại!", "THÔNG BÁO", MessageBoxButtons.OK);
+                foreach (ListViewItem it in listViewBanHang.Items)
+                {
+                    if (it.Text == txtIDOrder.Text)
+                    {
+                        it.Remove();
+                        textBox10.Text = "0";
+                        return;
+                    }
+                }
+            }
+            if (rBtnNgay.Checked == true)
+            {
+                LoadDoanhThuTheoNgay(dtpkDoanhThu.Value);
+                return;
+            }
+            else if (rBtnThang.Checked == true)
+            {
+                LoadDoanhThuTheoThang(dtpkDoanhThu.Value);
+                return;
+            }
+            else if (rBtnNam.Checked == true)
+            {
+                LoadDoanhThuTheoNam(dtpkDoanhThu.Value);
+                return;
+            }
+            else
+            {
+                LoadDoanhThu();
             }
         }
 
         private void btnInHoaDon_Click(object sender, EventArgs e)
         {
+            //Inhoadon hoadon = new Inhoadon();
+            //hoadon.Show();
             for (int i = 0; i < listViewBanHang.Items.Count; i++)
             {
                 listViewBanHang.Items[i].Remove();
@@ -519,6 +593,147 @@ namespace QuanLyQuanAnNhanh
         //}
 
 
+        #endregion
+
+        //Phạm Văn Thành
+        #region DoanhThu
+        DoanhThu doanhThu = new DoanhThu();
+        void LoadDoanhThu()
+        {
+            grvDoanhThu.DataSource = doanhThu.HienThiDoanhThu();
+        }
+        void LoadDoanhThuTheoNgay(DateTime ngaythanhtoan)
+        {
+            grvDoanhThu.DataSource = doanhThu.HienThiDoanhThuTheoNgay(ngaythanhtoan);
+        }
+        void LoadDoanhThuTheoThang(DateTime ngaythanhtoan)
+        {
+            grvDoanhThu.DataSource = doanhThu.HienThiDoanhThuTheoThang(ngaythanhtoan);
+        }
+        void LoadDoanhThuTheoNam(DateTime ngaythanhtoan)
+        {
+            grvDoanhThu.DataSource = doanhThu.HienThiDoanhThuTheoNam(ngaythanhtoan);
+        }
+        void updateBieuDo()
+        {
+            
+        }
+        void BindingData()
+        {
+            txtmaorder.DataBindings.Clear();
+            txtmaorder.DataBindings.Add("Text", grvDoanhThu.DataSource, "Mã đơn hàng");
+            txttennv.DataBindings.Clear();
+            txttennv.DataBindings.Add("Text", grvDoanhThu.DataSource, "Tên nhân viên");
+            txttongtien.DataBindings.Clear();
+            txttongtien.DataBindings.Add("Text", grvDoanhThu.DataSource, "Tổng tiền");
+            dtpkIndoanhthu.DataBindings.Clear();
+            dtpkIndoanhthu.DataBindings.Add("Text", grvDoanhThu.DataSource, "Thời gian thanh toán");
+        }
+        private void rBtnNgay_CheckedChanged(object sender, EventArgs e)
+        {
+            LoadDoanhThuTheoNgay(dtpkDoanhThu.Value);
+            BindingData();
+        }
+
+        private void rBtnThang_CheckedChanged(object sender, EventArgs e)
+        {
+            LoadDoanhThuTheoThang(dtpkDoanhThu.Value);
+            BindingData();
+        }
+
+        private void rBtnNam_CheckedChanged(object sender, EventArgs e)
+        {
+            LoadDoanhThuTheoNam(dtpkDoanhThu.Value);
+            BindingData();
+        }
+
+        private void btnXoa_Click(object sender, EventArgs e)
+        {
+            doanhThu.XoaDoanhThu(txtmaorder.Text.Trim());
+            if (rBtnNgay.Checked == true)
+            {
+                LoadDoanhThuTheoNgay(dtpkDoanhThu.Value);
+                return;
+            }
+            else if (rBtnThang.Checked == true)
+            {
+                LoadDoanhThuTheoThang(dtpkDoanhThu.Value);
+                return;
+            }
+            else if (rBtnNam.Checked == true)
+            {
+                LoadDoanhThuTheoNam(dtpkDoanhThu.Value);
+                return;
+            }
+            else
+            {
+                LoadDoanhThu();
+            }
+            BindingData();
+        }
+
+        private void dtpkDoanhThu_ValueChanged(object sender, EventArgs e)
+        {
+            if (rBtnNgay.Checked == true)
+            {
+                LoadDoanhThuTheoNgay(dtpkDoanhThu.Value);
+                BindingData();
+                return;
+            }
+            else if (rBtnThang.Checked == true)
+            {
+                LoadDoanhThuTheoThang(dtpkDoanhThu.Value);
+                BindingData();
+                return;
+            }
+            else if (rBtnNam.Checked == true)
+            {
+                LoadDoanhThuTheoNam(dtpkDoanhThu.Value);
+                BindingData();
+                return;
+            }
+            
+        }
+
+        private void btnBieuDo_Click(object sender, EventArgs e)
+        {
+            BieuDo bieuDo = new BieuDo();
+            bieuDo.Show();
+        }
+
+        private void btnXuatEL_Click(object sender, EventArgs e)
+        {
+            exportExcel(grvDoanhThu, @"E:\Code VS\QLQuanAnNhanh", "doanhthu");
+        }
+
+        private void exportExcel(DataGridView g, string duongDan, string tenTep)
+        {
+            xlapp obj = new xlapp();
+            obj.Application.Workbooks.Add(Type.Missing);
+            obj.Columns.ColumnWidth = 25;
+            for (int i = 1; i < g.Columns.Count + 1; i++)
+            {
+                obj.Cells[1, i] = g.Columns[i - 1].HeaderText;
+            }
+            for (int i = 0; i < g.Rows.Count; i++)
+            {
+                for (int j = 0; j < g.Columns.Count; j++)
+                {
+                    if (g.Rows[i].Cells[j].Value != null)
+                    {
+                        obj.Cells[i + 2, j + 1] = g.Rows[i].Cells[j].Value.ToString();
+                    }
+                }
+            }
+            obj.ActiveWorkbook.SaveCopyAs(duongDan + tenTep + ".xlsx");
+            obj.ActiveWorkbook.Saved = true;
+        }
+
+        private void btnInbaocao_Click(object sender, EventArgs e)
+        {
+            Indoanhthu doanhThu = new Indoanhthu();
+            doanhThu.Show();
+        }
 
         #endregion
 
@@ -531,6 +746,13 @@ namespace QuanLyQuanAnNhanh
             btnExit.Enabled = false;
             btnSave.Enabled = false;
             LoadComboBox();
+            LoadComboBox2();
+            AddMaNV();
+            AddGia();
+            LoadDoanhThu();
+            BindingData();
         }
+
+
     }
 }

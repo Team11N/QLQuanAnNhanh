@@ -16,8 +16,8 @@ namespace QuanLyQuanAnNhanh
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new SignIn());
-            Application.Run(new MainForm());
+            Application.Run(new SignIn());
+            //Application.Run(new MainForm());
         }
     }
 }

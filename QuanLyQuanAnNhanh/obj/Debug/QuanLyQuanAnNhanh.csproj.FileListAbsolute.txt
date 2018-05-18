@@ -53,3 +53,307 @@ C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Proper
 C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.Cache
 C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
 C:\Users\Vlit\Desktop\qlqan\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.cache
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.CoreCompileInputs.cache
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Indoanhthu.resources
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.CopyComplete
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\EnvDTE.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\stdole.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.MSXML.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.BieuDo.resources
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Common.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Design.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.SqlServer.Types.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\EnvDTE.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\stdole.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.MSXML.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.BieuDo.resources
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Indoanhthu.resources
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.cache
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.CoreCompileInputs.cache
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.CopyComplete
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+W:\Users\ADMIN\Desktop\Code\QLQuanAnNhanh-master\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\EnvDTE.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\stdole.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\EnvDTE80.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\VSLangProj.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\VSLangProj80.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\VSLangProj2.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.QuanLyQuanAnNhanh.exe.config
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.BieuDo.resources
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Indoanhthu.resources
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.Cache
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\RdlCompile.cache
+C:\Users\Vlit\Desktop\ttn\QLQuanAnNhanh\QLQuanAnNhanh-master\QuanLyQuanAnNhanh\obj\Debug\RdlCompile.compiled
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe.config
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.exe
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.pdb
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.exe
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\QuanLyQuanAnNhanh.pdb
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\EnvDTE.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\stdole.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\EnvDTE80.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\VSLangProj.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\VSLangProj80.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.MSXML.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.Build.Framework.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\VSLangProj2.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csprojResolveAssemblyReference.cache
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.QuanLyQuanAnNhanh.exe.config
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.BieuDo.resources
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.SignIn.resources
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.MainForm.resources
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Indoanhthu.resources
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.Properties.Resources.resources
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\QuanLyQuanAnNhanh.csproj.GenerateResource.Cache
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\RdlCompile.cache
+E:\Code VS\QLQuanAnNhanh\QuanLyQuanAnNhanh\obj\Debug\RdlCompile.compiled
